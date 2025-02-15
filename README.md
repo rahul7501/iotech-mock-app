@@ -1,5 +1,6 @@
 💬 Post List App
 A simple React + TypeScript posts list app using Tailwind CSS and a mock API.
+Production URL: https://iotech-mock-app.netlify.app/
 
 🚀 Features
 ✅ View a list of posts
