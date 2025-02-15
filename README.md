@@ -28,7 +28,7 @@ A simple React + TypeScript posts list app using Tailwind CSS and a mock API.
   ├── index.tsx
 
   🛠️ Installation and Running Locally
-  git clone https://github.com/YOUR_USERNAME/iotech-mock-app.git
+  git clone https://github.com/rahul7501/iotech-mock-app.git
   cd iotech-mock-app
 
   npm install
