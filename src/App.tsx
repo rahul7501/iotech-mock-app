@@ -25,7 +25,7 @@ const App = () => {
     useEffect(() => {
         setLoading(true)
         const loadPosts = async () => {
-            const data = await getPosts().then(setPosts).finally(() => setLoading(false));
+            await getPosts().then(setPosts).finally(() => setLoading(false));
         };
         loadPosts();
     }, []);
