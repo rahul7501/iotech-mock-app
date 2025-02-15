@@ -1,0 +1,52 @@
+[
+  {
+    "userId": 1,
+    "fullName": "John Doe",
+    "username": "johndoe123"
+  },
+  {
+    "userId": 2,
+    "fullName": "Alice Smith",
+    "username": "alicesmith"
+  },
+  {
+    "userId": 3,
+    "fullName": "Robert Johnson",
+    "username": "robertj"
+  },
+  {
+    "userId": 4,
+    "fullName": "Emily Davis",
+    "username": "emily_d"
+  },
+  {
+    "userId": 5,
+    "fullName": "Michael Brown",
+    "username": "mikebrown"
+  },
+  {
+    "userId": 6,
+    "fullName": "Sophia Wilson",
+    "username": "sophiaw"
+  },
+  {
+    "userId": 7,
+    "fullName": "William Martinez",
+    "username": "willmartinez"
+  },
+  {
+    "userId": 8,
+    "fullName": "Olivia Taylor",
+    "username": "oliviat"
+  },
+  {
+    "userId": 9,
+    "fullName": "James Anderson",
+    "username": "jamesa"
+  },
+  {
+    "userId": 10,
+    "fullName": "Emma Thomas",
+    "username": "emmathomas"
+  }
+]
