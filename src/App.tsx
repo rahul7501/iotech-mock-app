@@ -48,7 +48,7 @@ const App = () => {
 
     const handleDelete = async (id: number) => {
         setLoading(true);
-        await deletePgit ost(id);
+        await deletePost(id);
         setPosts(posts.filter((post) => post.id !== id));
         setLoading(false);
     };
